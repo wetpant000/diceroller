@@ -1,0 +1,19 @@
+body {
+    font-family: verdana;
+    text-align: center;
+    color:blueviolet;
+    background-color:rgb(190, 190, 244);
+}
+
+#mybutton {
+    padding:5px, 25px;
+    font-size:3em;
+    border-radius: 5px;
+    font-family:Georgia, 'Times New Roman';
+    background-color:aquamarine
+}
+
+#mylabel {
+
+    
+}
